@@ -1,0 +1,19 @@
+/*css*/
+*{
+  margin: 0;
+  padding: 0;
+}
+.container-fluid{
+  background-color: tomato;
+}
+.showmenu{
+  padding: 15px;
+  background-color: #1e7e34;
+  color: #ffffff;
+  border: 1px solid #1e7e34;
+}
+li{
+  width: 150px;
+  height: 30px;
+  background-color: #b21f2d;
+}

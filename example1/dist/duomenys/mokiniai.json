@@ -1,0 +1,22 @@
+[
+{
+    "name" : "Paulius",
+    "lokacija" : true
+},
+{
+    "name" : "Donatas",
+    "lokacija" : true
+},
+{
+    "name" : "Egle",
+    "lokacija" : true
+},
+{
+    "name" : "Saidas",
+    "lokacija" : true
+},
+{
+    "name" : "Julija",
+    "lokacija" : false
+}
+]
